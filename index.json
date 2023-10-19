@@ -1,0 +1,15 @@
+{
+    "type": "rich",
+    "version": "1.0",
+    "title": "Untitled",
+    "author_name": "Sardeep Lakhera",
+    "provider_name": "Express Document",
+    "provider_url": "https://new.express.adobe.com",
+    "cache_age": 900,
+    "thumbnail_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg",
+    "thumbnail_width": 596,
+    "thumbnail_height": 335,
+    "html": "<iframe src=\"https%3A%2F%2Fnew.express.adobe.com%2Fpublished%2Furn%3Aaaid%3Asc%3AAP%3A62195de4-e2d8-4e68-92c9-fe917d0ad78c\" height=\"1080\" width=\"1920\" style=\"border: 0px solid rgb(222, 224, 226); width: 1920px; height: 1080px;\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\"></iframe>",
+    "width": 1920,
+    "height": 1080
+  }
